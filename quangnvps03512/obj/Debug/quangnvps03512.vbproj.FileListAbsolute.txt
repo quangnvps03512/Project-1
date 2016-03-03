@@ -1,0 +1,22 @@
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\bin\Debug\quangnvps03512.exe.config
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\bin\Debug\quangnvps03512.exe
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\bin\Debug\quangnvps03512.pdb
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\bin\Debug\quangnvps03512.xml
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.frmmain.resources
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.Resources.resources
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.vbproj.GenerateResource.Cache
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.exe
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.xml
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.pdb
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.frmkhachhang.resources
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.frmsanpham.resources
+c:\users\pc01\documents\visual studio 2012\Projects\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.main.resources
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\bin\Debug\quangnvps03512.exe.config
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.exe
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.xml
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.pdb
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.frmkhachhang.resources
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.main.resources
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.Resources.resources
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.frmsanpham.resources
+C:\Users\PC01\Downloads\quangnvps03512\quangnvps03512\quangnvps03512\obj\Debug\quangnvps03512.vbproj.GenerateResource.Cache
